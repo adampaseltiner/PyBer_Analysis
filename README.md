@@ -45,6 +45,8 @@ I was then able to create a pivot table DataFrame which filtered the data to sho
 
 Using this final DataFrame, I was then able to create a multi-line chart which showed the weekly fares by city type over the given date range:
 
+![Line_Chart_Code](https://user-images.githubusercontent.com/82347825/119239228-b6c4f300-bb15-11eb-8164-96f7ff9a577d.png)
+
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/82347825/119236066-6775c700-bb03-11eb-8a17-beb7ffe25233.png)
 
 When viewing the above DataFrames and summary chart we can deduce several key conclusions from the data:
